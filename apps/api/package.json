@@ -71,7 +71,7 @@
     "@openrouter/ai-sdk-provider": "^0.4.5",
     "@pinecone-database/pinecone": "^4.0.0",
     "@sentry/cli": "^2.33.1",
-    "@sentry/node": "^8.26.0",
+    "@sentry/node": "^8.49.0",
     "@sentry/profiling-node": "^8.26.0",
     "@supabase/supabase-js": "^2.44.2",
     "@types/ws": "^8.5.12",
